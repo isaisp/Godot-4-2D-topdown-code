@@ -12,6 +12,8 @@ Go to your project settings
 Step 2:
 
 Click on input maps
+![image](https://github.com/user-attachments/assets/9aca5ab5-ba53-45e8-9a33-7186227c63ec)
+
 
 
 Step 3:
